@@ -14,10 +14,15 @@ feature1()
 {
 
 //feature added
-=======
 security patch()
 {//security added
->>>>>>> master
+
+=======
+feature2()
+{
+
+//feature2 added
+>>>>>>> feature2
 }
 
 
